@@ -1,2 +1,4 @@
 # DT
-Decision Theory stuff
+Decision Theory
+
+## Variant - 3
